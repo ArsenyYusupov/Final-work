@@ -11,3 +11,4 @@
 Возвращаем новый заполненый массив как результат
 Блок-схема алгоритма:
 Диаграмма
+![Diagram drawio](https://user-images.githubusercontent.com/115478107/204801302-5a8cf435-b0c8-4bce-8e14-81baf5c64d3b.png)
